@@ -1,0 +1,14 @@
+{
+  "hash": "a1e7f880b5cb77ea9c36f09744db5db3",
+  "result": {
+    "markdown": "---\ntitle: \"A nice paper\"\nsubtitle: \"Journal of Econometrics\"\ndescription: \"Post description\"\nauthor: \"Jean-Paul Renne\"\ndate: \"5/22/2021\"\nimage: \"image4post1.png\"\ncategories: [news, code, fiscal policy]\nformat:\n  html:\n    code-fold: true\n    code-summary: \"Bibtex\"\n---\n\n\n<!-- image: \"image4post1.png\" -->\n\nThis paper bla bla.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n\n```{.r .cell-code}\n#plot(rnorm(10))\n```\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\narticle = {\n  author = {JPR},\n  year=2010\n}\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

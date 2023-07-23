@@ -1,0 +1,16 @@
+{
+  "hash": "52d12a152f201ccc094f83cfbd025535",
+  "result": {
+    "markdown": "---\ntitle: \"Research\"\nlisting:\n  contents: papers\n  sort: \"date desc\"\n  type: default\n  categories: true\n---\n\n\nHere are my papers.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(rnorm(10))\n```\n\n::: {.cell-output-display}\n![](essai_blog_index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "essai_blog_index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
