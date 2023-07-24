@@ -1,0 +1,37 @@
+---
+title: "A Quadratic Kalman Filter"
+author: "Alain Monfort, Jean-Paul Renne, Guillaume Roussellet"
+description: "Journal of Econometrics"
+date: "7/1/2015"
+categories: [econometrics, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+We propose a new filtering and smoothing technique for non-linear state-space models. Observed variables are quadratic functions of latent factors following a Gaussian VAR. Stacking the vector of factors with its vectorized outer-product, we form an augmented state vector whose first two conditional moments are known in closed-form. We also provide analytical formulae for the unconditional moments of this augmented vector. Our new Quadratic Kalman Filter (Qkf) exploits these properties to formulate fast and simple filtering and smoothing algorithms. A simulation study first emphasizes that the Qkf outperforms the extended and unscented approaches in the filtering exercise showing up to 70% RMSEs improvement of filtered values. Second, it provides evidence that Qkf-based maximum-likelihood estimates of model parameters always possess lower bias or lower RMSEs than the alternative estimators.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://doi.org/10.1016/j.jeconom.2015.01.003" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

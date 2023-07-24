@@ -1,0 +1,37 @@
+---
+title: "Regime switching and bond pricing"
+author: "Christian Gouriéroux, Alain Monfort, Fulvio Pegoraro, Jean-Paul Renne"
+description: "Journal of Financial Econometrics"
+date: "9/14/2013"
+categories: [term structure, econometrics, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+This article proposes an overview of the usefulness of the regime switching approach for building various kinds of bond pricing models and of the roles played by the regimes in these models. Both default-free and defaultable bonds are considered. The regimes can be used to capture stochastic drifts and/or volatilities, to represent discrete target rates, to incorporate business cycles or crises, to introduce contagion, to reproduce zero lower bound spells, or to evaluate the impact of standard or nonstandard monetary policies. From a technical point of view, we stress the key role of Markov chains, Compound Autoregressive (Car) processes, Regime Switching Car processes and multihorizon Laplace transforms. 
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://doi.org/10.1093/jjfinec/nbt019" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

@@ -1,0 +1,38 @@
+---
+title: "Caractéristiques des marchés du travail dans les pays de l'OCDE"
+author: "Romain Bouis, Jean-Paul Renne"
+description: "Economie & Prevision"
+date: "1/1/2006"
+categories: [fiscal policy,macroeconomic dynamics,short paper]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+La question se pose de savoir s'il existe, dans le choix des caractéristiques des marchés du travail, un arbitrage entre le niveau espéré de revenu et le risque supporté par un travailleur sur ce revenu. Autrement dit, il se peut que des niveaux de revenu plus faibles reflètent au moins partiellement un choix social de ne pas soumettre les agents économiques à des fluctuations de revenu trop fortes. Cette hypothèse est examinée à partir d'un modèle rendement-risque, où l'objectif des agents économiques est d'obtenir un revenu élevé et fluctuant le moins possible. Selon leur aversion au risque, ils accepteront plus ou moins de perte de revenu pour garantir sa stabilité. Des évaluations quantitatives et leur comparaison avec l'aversion au risque révélée par les comportements individuels sur les marchés financiers ne permettent pas de classer les marchés du travail continentaux et anglo-saxons. Il n'en demeure pas moins qu'ils sont tous dominés par les caractéristiques des marchés du travail scandinaves.
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.cairn.info/revue-economie-et-prevision-2006-2-page-171.htm" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

@@ -1,0 +1,37 @@
+---
+title: "A time-varying “natural” rate of interest for the euro area"
+author: "Jean-Stéphane Mésonnier, Jean-Paul Renne"
+description: "European Economic Review"
+date: "10/1/2007"
+categories: [monetary policy, macroeconomic dynamics, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+We estimate a time-varying “natural” rate of interest (TVNRI) for a synthetic euro area over the period 1979Q1–2004Q4 using a small macroeconomic model, broadly following a methodology developed by Laubach and Williams [2003. Measuring the natural rate of interest. The Review of Economics and Statistics 85(4), 1063–1070] for the United States. The Kalman filter simultaneously estimates the output gap and the natural rate of interest. Our identifying assumptions include a close relationship between the TVNRI and the low-frequency fluctuations of potential output growth. The difference between the real rate of interest and its estimated natural level offers valuable insights into the monetary policy stance over the last two decades and a half.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/pii/S0014292106001504" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

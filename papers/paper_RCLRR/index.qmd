@@ -1,0 +1,37 @@
+---
+title: "Required capital for long run risk"
+author: "Christian Gouriéroux, Alain Monfort, Jean-Paul Renne"
+description: "Journal of Economic Dynamics & Control"
+date: "8/18/2017"
+categories: [banking crises, macroprudential policy, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+One of the objectives of the recent microprudential regulation is to separate the computation of required capital for short-run and long-run risks. This paper provides a coherent framework to define, compute, and update these components. The approach is developed in greater details in the context of the transition to low-carbon economies. A numerical example is given.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://doi.org/10.1016/j.jedc.2022.104502" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

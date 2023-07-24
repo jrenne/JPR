@@ -1,0 +1,40 @@
+---
+title: "Une modélisation analytique des stratégies d'endettement de l'État"
+author: "Jean-Paul Renne, Nicolas Sagnes"
+description: "DPAE"
+date: "2/1/2006"
+categories: [public debt, short paper]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+Pour couvrir son besoin de financement, l'État s'endette en émettant des titres obligataires, les Valeurs du Trésor. Les obligations émises sont à taux nominal fixe ou, depuis 1998, indexé sur l'inflation. L'arrivée de ce nouvel instrument de financement a multiplié les stratégies envisageables par l'État.
+
+La mission du gestionnaire de la dette de l'État (l'Agence France Trésor) est de minimiser le coût de financement à moyen terme, tout en tenant compte du risque. Elle implique notamment le choix de la part de la dette indexée, parce que celui-ci influence le coût et le risque liés au financement. Alors que le coût peut naturellement être mesuré par la moyenne sur longue période des charges d'intérêt (en points de PIB), la mesure de risque doit représenter la «variabilité» de ces charges. En réalité, plusieurs mesures du risque peuvent être considérées : la variabilité à un horizon donné de la charge d'intérêt ou celle du solde budgétaire, la volatilité (ampleur des variations année après année) ou bien encore la dispersion (éloignement moyen à une valeur centrale).
+
+Des mesures de coût et de risque peuvent être effectuées à partir de simulations d'un grand nombre de scenarii macro-financiers auxquels sont appliquées plusieurs stratégies d'endettement, correspondant à différentes parts d'encours de dette indexée.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="diagnostics-previsions-et-analyses-economiques_99_2006-02.pdf" role="button" target="_blank" style="padding: 5px 5px;">Link to paper</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

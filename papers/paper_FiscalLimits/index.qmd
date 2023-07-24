@@ -1,0 +1,37 @@
+---
+title: "Fiscal Fatigue, Fiscal Limits, and Sovereign Credit Spreads"
+author: "Jean-Paul Renne, Kevin Pallara"
+description: "Working Paper"
+date: "7/6/2023"
+categories: [term structure, credit risk, working paper]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+We develop a dynamic term structure model of sovereign credit risk based on the concept of fiscal fatigue. According to this concept, when debt is high, stabilizing it requires large surpluses, but these surpluses are difficult to maintain over long periods, which gives rise to sovereign credit risk. We define fiscal limits as the level of debt that would imply a given probability of default at a given horizon. Exploiting approximate bond pricing formulas, we extract the information contained in the term structure of sovereign credit spreads to retrieve time-varying estimates of fiscal limit and fiscal space---the distance between the limit and actual debt. An empirical exercise covers eight countries, including advanced and emerging economies, from 2007 to 2022. We find substantial temporal variation in our estimates of fiscal limit and fiscal space. Estimated fiscal spaces comove negatively with economic policy uncertainty and bond market volatility, and positively with the central bank's balance sheet.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475425" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

@@ -1,0 +1,37 @@
+---
+title: "Measuring inflation anchoring and uncertainty: A U.S. and euro area comparison"
+author: "Olesya Grishchenko, Sarah Mouabbi, Jean-Paul Renne"
+description: "Journal of Money, Credit & Banking"
+date: "5/20/2019"
+categories: [monetary policy, macroeconomic dynamics, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+We use several U.S. and euro-area surveys of professional forecasters to estimate a dynamic factor model of inflation featuring time-varying uncertainty. We obtain survey-consistent distributions of future inflation at any horizon, both in the U.S. and the euro area. Equipped with this model, we propose a novel measure of the anchoring of inflation expectations that accounts for inflation uncertainty. Our results suggest that following the Great Recession, inflation anchoring improved in the United States, while mild de-anchoring occurred in the euro area. As of our sample end, both areas appear to be almost equally anchored.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12622" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

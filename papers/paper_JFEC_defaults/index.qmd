@@ -1,0 +1,37 @@
+---
+title: "Default, liquidity and crises: an econometric framework"
+author: "Alain Monfort, Jean-Paul Renne"
+description: "Journal of Financial Econometrics"
+date: "11/29/2012"
+categories: [term structure, credit risk, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+This article presents a general discrete-time affine framework aimed at jointly modeling yield curves associated with different debtors. The underlying fixed-income securities may differ in terms of credit quality and/or in terms of liquidity. The risk factors follow conditionally Gaussian processes, with drifts and covariance matrices that are subject to regime shifts described by a Markov chain with (historical) non-homogenous transition probabilities. Bond prices are given by quasi-explicit formulas. The tractability of the framework is illustrated by the estimation of a term-structure model of the spreads between U.S. BBB-rated corporate bonds and Treasuries. Alternative applications are proposed, including a sector-contagion model as well as the explicit modeling of credit-rating transitions.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://academic.oup.com/jfec/article-abstract/11/2/221/782722?login=false" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

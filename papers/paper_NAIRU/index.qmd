@@ -1,0 +1,50 @@
+---
+title: "Quelles sont les parts cyclique et structurelle du chômage en France?"
+author: "Jean-Paul Renne"
+description: "Economie & Prevision"
+date: "1/1/2007"
+categories: [fiscal policy, macroeconomic dynamics, short paper]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+Ala fin de l'année 2006, le taux de chômage en France était de 8,6% de la population active; il faut revenir à 1983 pour trouver un taux de chômage inférieur. Sur un an, le taux de chômage a baissé d'environ 1 point : cette baisse reflète-t-elle uniquement la bonne conjoncture économique ou traduit-elle aussi une amélioration durable du fonctionnement du marché du travail ?
+
+Pour répondre à cette question, on doit repérer dans le niveau observé du taux de chômage la partie conjoncturelle et la partie structurelle. Une façon assez courante de procéder consiste à regarder simultanément les évolutions du taux de chômage, de l'inflation, de l'inflation anticipée et du prix de l'énergie. Dans cette approche basée sur la « courbe de Phillips augmentée », une baisse du taux de chômage qui n'est pas accompagnée d'une augmentation inattendue de l'inflation (hors effets éventuels des prix de l'énergie) est interprétée comme une baisse de la partie structurelle du taux de chômage (aussi appelée NAIRU pour Non Accelerating Inflation Rate of Unemployment), alors qu'une baisse du taux de chômage accompagnée d'une augmentation inattendue de l'inflation s'interprète comme une baisse de la partie conjoncturelle du chômage.
+
+En se fondant sur cette idée, la mise en œuvre de méthodes statistiques assez simples permet d'évaluer qu'au quatrième trimestre 2006, le NAIRU était de l'ordre de 8,3% (avec une marge d'incertitude importante), mais surtout qu'il a diminué d'environ 1/3 de point par an depuis 2000. On évalue aussi que la part conjoncturelle du chômage est actuellement faible, ce qui limite l'efficacité des politiques de demande pour réduire le chômage et suggère que des améliorations supplémentaires seront avant tout le fruit de réformes structurelles du fonctionnement de l'économie.
+
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.cairn.info/revue-economie-et-prevision-2007-1-page-129.htm3" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="2007-004-10en.pdf" role="button" target="_blank" style="padding: 5px 5px;">English version</a>
+</div>
+```
+
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

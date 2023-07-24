@@ -5,6 +5,7 @@ listing:
   sort: "date desc"
   type: default
   categories: true
+  max-items: 50
 ---
 
 <!-- ::: {#fig-elephants layout-ncol=2} -->

@@ -1,0 +1,36 @@
+---
+title: "Pricing default events: Surprise, exogeneity and contagion"
+author: "Christian Gouriéroux, Alain Monfort, Jean-Paul Renne"
+description: "Journal of Econometrics"
+date: "10/1/2014"
+categories: [term structure, credit risk, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+In order to derive closed-form expressions of the prices of credit derivatives, standard credit-risk models typically price the default intensities, but not the default events themselves. The default indicator is replaced by an appropriate prediction and the prediction error, that is the default-event surprise, is neglected. Our paper develops an approach to get closed-form expressions for the prices of credit derivatives written on multiple names without neglecting default-event surprises. This approach differs from the standard one, since the default counts necessarily cause the factor process under the risk-neutral probability, even if this is not the case under the historical probability. This implies that the standard exponential pricing formula of default does not apply. Using the US bond data, we show that allowing for the pricing of default events has important implications in terms of both data-fitting and model-implied physical probabilities of default. In particular, it may provide a solution to the credit spread puzzle. Besides, we show how our approach can be used to account for the propagation of defaults on the prices of credit derivatives.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/pii/S0304407614001080" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

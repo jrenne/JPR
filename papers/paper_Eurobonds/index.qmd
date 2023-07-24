@@ -1,0 +1,36 @@
+---
+title: "Fiscal limits and the pricing of Eurobonds"
+author: "Kevin Pallara, Jean-Paul Renne"
+description: "Management Science"
+date: "3/29/2023"
+categories: [term structure, public debt, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+This paper proposes a methodology to price bonds jointly issued by a group of countries—Eurobonds in the euro-area context. We consider two types of bonds; the first is backed by several and joint guarantees (SJGs), and the second features several but not joint guarantees (SNJGs). The pricing of SJG and SNJG bonds reflects different assumptions regarding the pooling of debtors’ fiscal resources. We estimate fiscal limits for the six larg- est euro-area economies over 2008–2021 and deduce counterfactual Eurobond prices. For the five-year maturity, SNJG bond yield spreads would have been about three times larger than SJG ones over the estimation sample. Hence, issuing SJG bonds could result in gains at the aggregate level. Notwithstanding, our model also predicts that gains may temporar- ily vanish in periods of acute fiscal stress. We finally envision postissuance redistribution schemes, whereby gains stemming from the issuance of SJG bonds could be shared among participating countries; we argue that these schemes may alleviate the reduction in market discipline resulting from common bonds issuance.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.4740" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

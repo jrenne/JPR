@@ -1,0 +1,37 @@
+---
+title: "National natural rates of interest and the single monetary policy in the euro area"
+author: "Sébastien Fries, Jean-Stéphane Mésonnier, Sarah Mouabbi, Jean-Paul Renne"
+description: "Journal of Applied Econometrics"
+date: "6/19/2018"
+categories: [macroeconomic dynamics, monetary policy, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+We estimate time-varying national natural real rates of interest (r∗) for the four largest economies of the euro area over 1999–2016. We further derive the associated national real interest rate gaps, which gauge the perceived monetary policy stance in each country. We find that the average r∗ have been lower after 2008. Furthermore, national r∗ were significantly negative in southern countries during the sovereign crisis. As their effective real rates soared, national rate gaps across the euro area diverged. However, a common policy stance has been restored since 2014 as the European Central Bank's unconventional programs gathered pace.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2637" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

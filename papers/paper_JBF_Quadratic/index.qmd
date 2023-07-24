@@ -1,0 +1,37 @@
+---
+title: "Credit and liquidity in interbank rates: a quadratic approach"
+author: "Simon Dubecq, Alain Monfort, Jean-Paul Renne, Guillaume Roussellet"
+description: "Journal of Banking & Finance"
+date: "7/1/2016"
+categories: [term structure, credit risk, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+A bank that lends on the unsecured market requires compensations for facing the default risk of the borrowing bank (credit risk) and the risk associated to its own future funding needs (liquidity risk). In this paper, we propose a quadratic term-structure model of the spreads between unsecured and risk-free interbank rates. Our no-arbitrage econometric framework allows us to decompose the term structure of spreads into credit and liquidity components and to identify risk premia associated with each of these two risks. Our results suggest that, over the period 2012–2013, most of the reduction in interbank spreads comes from a decrease in liquidity-related risk components.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/pii/S037842661630019X" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

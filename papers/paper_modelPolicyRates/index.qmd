@@ -1,0 +1,37 @@
+---
+title: "A model of the euro-area yield curve with discrete policy rates"
+author: "Jean-Paul Renne"
+description: "Studies in Nonlinear Dynamics & Econometrics"
+date: "5/31/2016"
+categories: [term structure, monetary policy, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+This paper presents a no-arbitrage yield-curve model that explicitly incorporates the central-bank policy rate. This model is consistent with the existence of a lower bound for nominal interest rates, which makes it particularly relevant in the current context of extremely low interest rates. Changes in the policy rates depend on the monetary-policy phase, that can be either in an easing, status quo or tightening mode. The estimation of the model, based on daily euro-area yield data, reveals the strong influence of the monetary-policy phases on the shape of the yield curve. This relationship can, in turn, be exploited to estimate the probabilities of being in the different monetary-policy phases. The model is also used to compute term premiums, that are the parts of the yields reflecting the aversion of investors to interest rate risk. The results point to the existence of statistically significant premiums for many dates, even for short horizons.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.degruyter.com/document/doi/10.1515/snde-2016-0043/html?lang=en" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

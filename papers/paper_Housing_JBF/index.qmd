@@ -1,0 +1,37 @@
+---
+title: "Measuring aggregate risk: Can we robustly identify asset-price boom–bust cycles?"
+author: "Vladimir Borgy, Laurent Clerc, Jean-Paul Renne"
+description: "Journal of Banking & Finance"
+date: "5/27/2014"
+categories: [housing prices, banking crises, macroprudential policy, published]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+We investigate the extent to which it is possible to detect asset-price booms and banking crises according to alternative identification strategies and we assess their robustness. We find some evidence that house price-booms are more likely to turn into costly recession or to trigger a banking crisis than stock-price booms. Resorting both to a non-parametric approach and a discrete-choice (logit) model, we analyze the ability of a wide set of indicators to robustly explain costly asset-price booms. According to our results, real long-term interest rates and real stock prices tend to increase the probability of a costly housing-price boom, whereas real GDP tends to increase the probability of a costly stock-price boom. Interestingly, the credit-to-GDP gap indicator, sometimes put forward in the literature as a key reference for setting countercyclical capital buffers, does not seem to be a robust leading indicator of costly booms or banking crises.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/pii/S0378426614001769" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->
