@@ -1,0 +1,37 @@
+---
+title: "House price boom/bust cycles: identification issues and macro-prudential implications"
+author: "Vladimir Borgy, Laurent Clerc, Jean-Paul Renne "
+description: "Housing Markets in Europe: Book chapter"
+date: "9/1/2010"
+categories: [housing prices,Book chapter]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+Over the recent months, several initiatives have taken place to develop macro-prudential regulation in order to prevent systemic risk and the build-up of financial imbalances. These discussions took place in the aftermath of the recent financial crisis that is the consequence of the bust of an house price bubble that took place in the US and spread out to most developed countries. Crucial to the success of such policy is the ability of the macro-prudential authority to identify in due time such imbalances, generally featured by asset price boom-bust cycles. In this paper, we investigate the possibility of detecting house price booms according to alternative identification strategies and assess their robustness. In addition, we try to disentangle costless or low-cost from costly house price booms. Resorting both to a non-parametric approach and a discrete-choice (logit) model, we analyze the ability of a set of indicators to robustly explain costly house price booms. According to our results, real long term interest rates, total investment, real credit and real stock prices tend to increase the probability of a costly house price boom.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://link.springer.com/chapter/10.1007/978-3-642-15340-2_16" role="button" target="_blank" style="padding: 5px 5px;">Link to article</a>
+</div>
+```
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

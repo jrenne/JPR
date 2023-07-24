@@ -1,0 +1,43 @@
+---
+title: Teaching
+---
+
+## Statistics and econometrics (Bachelor 3rd year)
+
+<!-- <img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/> -->
+
+<a href="https://jrenne.github.io/EcoStat/" target="_blank">Online material</a>
+
+This course covers various econometric topics, including linear regression models, discrete-choice models, and an introduction to time series analysis. It provides examples or simulations based on R codes. 
+
+----
+
+## Macroeconometrics -- Introduction to time series (MSc)
+
+<a href="https://jrenne.github.io/TimeSeries_Bookdown/" target="_blank">Online material</a>
+
+Time series constitute a prevalent data type in several disciplines, notably macroeconomics and finance. The modeling of time series is crucial for many purposes, including forecasting, understanding macroeconomic mechanisms, and risk assessment. 
+
+----
+
+## Microeconometrics (MSc)
+
+<a href="https://jrenne.github.io/MicroEc_bookdown/" target="_blank">Online material</a>
+
+In microeconometric models, the variables of interest often feature restricted distributions--for instance with discontinuous support--, which necessitates specific models. Typical examples are discrete-choice models (binary, multinomial, ordered outcomes), sample selection models (censored or truncated outcomes), and count-data models (integer outcomes). The course describes the estimation and interpretation of these models. It also shows how the discrete-choice models can emerge from (structural) random-utility frameworks.
+
+----
+
+## The Identification of Dynamic Structural Shocks (Ph.D.)
+
+<a href="https://jrenne.github.io/IdentifStructShocks/" target="_blank">Online material</a>
+
+The identification and estimation of dynamic responses to structural shocks is one of the principal goals of macroeconometrics. These responses correspond to the effect, over time, of an exogenous intervention that propagates through the economy, as modeled by a system of simultaneous equations. Over the last decades, several methodologies have been proposed so as to estimate these responses. The objective of this course, developed jointly with [Kenza Benhima](https://sites.google.com/site/benhimakenza/), is to provide an exhaustive view of these methodologies and to provide students with tools enabling them to implement them in various contexts.
+
+----
+
+## Dynamic Pricing with Discrete Time Affine Processes (Ph.D.)
+
+This course, developed with [Alain Monfort](https://faculty.crest.fr/amonfort/), shows how discrete time affine processes can be used to derive asset prices and to model their dynamics. A first part presents the discrete-time affine processes and their properties. It highlights the richness of these processes and shows how they can conveniently be incorporated within asset-pricing frameworks. A second part presents various applications. It focuses in particular on the pricing of commodity-related financial products, interest rates, credit, liquidity, contagion and systemic risks.
+
+

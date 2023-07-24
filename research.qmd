@@ -1,0 +1,22 @@
+---
+title: "Research"
+listing:
+  contents: papers
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+<!-- ::: {#fig-elephants layout-ncol=2} -->
+
+<!-- ![Surus](img/elephant.png){#fig-surus} -->
+
+<!-- ![Hanno](img/logo_black.png){#fig-hanno} -->
+
+<!-- Famous Elephants -->
+<!-- ::: -->
+
+<!-- See @fig-elephants for examples. In particular, @fig-hanno. -->
+
+
+

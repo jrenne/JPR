@@ -3,7 +3,7 @@ title: "Staying at zero with affine processes: An application to term structure 
 author: "Alain Monfort, Fulvio Pegoraro, Guillaume Roussellet, and Jean-Paul Renne"
 description: "Journal of Econometrics"
 date: "8/18/2017"
-categories: [term structure, zero-lower bound, dynamic model]
+categories: [term structure, zero-lower bound, dynamic model,published]
 image: "figure.jpeg"
 ---
 
