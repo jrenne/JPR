@@ -1,7 +1,7 @@
 ---
 title: "Frequency-domain analysis of debt service in a macro-finance model for the euro area"
 author: "Jean-Paul Renne"
-description: "Banque de France working paper"
+description: "Banque de France Working Paper"
 date: "8/18/2017"
 categories: [public debt, term structure, permanent working paper]
 image: "figure.pdf"

@@ -1,7 +1,7 @@
 ---
 title: "Debt-stabilizing properties of GDP-linked securities: A macro-finance perspective"
 author: "Sarah Mouabbi, Jean-Paul Renne, Jean-Guillaume Sahuc"
-description: "Banque de France working paper"
+description: "Banque de France Working Paper"
 date: "2/2/2022"
 categories: [term structure, public debt, working paper]
 image: "figure.pdf"

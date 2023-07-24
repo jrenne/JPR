@@ -42,7 +42,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Jean-Paul Renne, Quartier Chamberonne, 1015 Lausanne, Switzerland</span>
+      <span class="faux-block">Jean-Paul Renne, UNIL, 1015 Lausanne, Switzerland</span>
 
 project:
   type: website
