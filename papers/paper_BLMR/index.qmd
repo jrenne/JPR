@@ -20,7 +20,7 @@ We build an Affine Term Structure Model that provides non-negative yields at any
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://publications.banque-france.fr/en/economic-and-financial-publications-working-papers/fiscal-sustainability-default-risk-and-euro-area-sovereign-bond-spreads" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://publications.banque-france.fr/en/economic-and-financial-publications-working-papers/fiscal-sustainability-default-risk-and-euro-area-sovereign-bond-spreads" role="button" target="_blank" style="padding: 5px 5px;">Link to paper</a>
 </div>
 ```
 

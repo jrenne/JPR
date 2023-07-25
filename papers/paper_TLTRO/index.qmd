@@ -19,7 +19,7 @@ In June 2014, the European Central Bank (ECB) announced the implementation of ne
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2515332" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2515332" role="button" target="_blank" style="padding: 5px 5px;">Link to paper on SSRN</a>
 </div>
 ```
 

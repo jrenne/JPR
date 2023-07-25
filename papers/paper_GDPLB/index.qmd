@@ -18,7 +18,7 @@ We study the debt-stabilizing properties of indexing debt to GDP using a consump
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3591202" role="button" target="_blank" style="padding: 5px 5px;">Link to paper</a>
+<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3591202" role="button" target="_blank" style="padding: 5px 5px;">Link to paper on SSRN</a>
 </div>
 ```
 

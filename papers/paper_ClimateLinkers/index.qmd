@@ -19,7 +19,7 @@ We define climate linkers as long-dated financial instruments--bonds or derivati
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881262" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881262" role="button" target="_blank" style="padding: 5px 5px;">Link to paper on SSRN</a>
 </div>
 ```
 
