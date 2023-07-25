@@ -3,7 +3,7 @@ title: "Measuring aggregate risk: Can we robustly identify asset-price boom–bu
 author: "Vladimir Borgy, Laurent Clerc, Jean-Paul Renne"
 description: "Journal of Banking & Finance"
 date: "5/27/2014"
-categories: [housing prices, banking crises, macroprudential policy, published]
+categories: [macroprudential policy, published]
 image: "figure.pdf"
 ---
 

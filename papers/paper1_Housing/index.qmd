@@ -3,7 +3,7 @@ title: "House price boom/bust cycles: identification issues and macro-prudential
 author: "Vladimir Borgy, Laurent Clerc, Jean-Paul Renne "
 description: "Housing Markets in Europe: Book chapter"
 date: "9/1/2010"
-categories: [housing prices,banking crises, macroprudential policy,book chapter]
+categories: [macroprudential policy,book chapter]
 image: "figure.pdf"
 ---
 

@@ -3,7 +3,7 @@ title: "Compound auto-regressive processes and defaultable bond pricing"
 author: "Alain Monfort, Jean-Paul Renne"
 description: "Book chapter in Developments in Macro-Finance Yield Curve Modelling"
 date: "9/1/2016"
-categories: [term structure, credit risk, book chapter]
+categories: [term structure, credit risk, econometrics, book chapter]
 image: "figure.pdf"
 ---
 
