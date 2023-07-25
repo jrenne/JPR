@@ -23,6 +23,15 @@ This Paper analyses the co-movement in activity, measured by GDP and industrial 
 </div>
 ```
 
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://eabcn.org/paper/economic-activity-g7-synchronized-common-shocks-versus-spillover-effects" role="button" target="_blank" style="padding: 5px 5px;">Link to EABCN website</a>
+</div>
+```
+
+
+
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->
 <!--   html: -->
