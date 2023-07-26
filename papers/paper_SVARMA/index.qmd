@@ -17,11 +17,22 @@ image: "figure.pdf"
 The basic assumption of a structural vector autoregressive moving average (SVARMA) model is that it is driven by a white noise whose components are uncorrelated or independent and can be interpreted as economic shocks, called “structural” shocks. When the errors are Gaussian, independence is equivalent to non-correlation and these models face two identification issues. The first identification problem is “static” and is due to the fact that there is an infinite number of linear transformations of a given random vector making its components uncorrelated. The second identification problem is “dynamic” and is a consequence of the fact that, even if a SVARMA admits a non-invertible moving average (MA) matrix polynomial, it may feature the same second-order dynamic properties as a VARMA process in which the MA matrix polynomials are invertible (the fundamental representation). The aim of this article is to explain that these difficulties are mainly due to the Gaussian assumption, and that both identification challenges are solved in a non-Gaussian framework if the structural shocks are assumed to be instantaneously and serially independent. We develop new parametric and semi-parametric estimation methods that accommodate non-fundamentalness in the MA dynamics. The functioning and performances of these methods are illustrated by applications conducted on both simulated and real data.
 
 
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://doi.org/10.1093/restud/rdz028" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://doi.org/10.1093/restud/rdz028" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper and replication codes</a>
 </div>
 ```
+
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

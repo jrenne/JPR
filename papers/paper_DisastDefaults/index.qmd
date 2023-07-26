@@ -17,17 +17,31 @@ image: "figure.pdf"
 We define a disastrous default as the default of a systemic entity. Such an event is expected to have a negative effect on the economy and to be contagious. Bringing macroeconomic structure to a no-arbitrage asset-pricing framework, we exploit prices of disaster-exposed assets (credit and equity derivatives) to extract information on (i) the expected influence of a disastrous default on consumption and (ii) the probability of a financial meltdown. Using European data, we find that the returns of disaster-exposed assets are consistent with a systemic default being followed by a 2% decrease in consumption. The recessionary influence of disastrous defaults implies that financial instruments whose payoffs are exposed to such credit events carry substantial risk premiums. We also produce systemic risk indicators based on the probability of observing a certain number of systemic defaults or a sharp drop of consumption.
 
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://doi.org/10.1093/rof/rfaa042" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
-</div>
-```
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3188085" role="button" target="_blank" style="padding: 5px 5px;">Link to preprint</a>
+<a class="btn btn-primary" href="https://doi.org/10.1093/rof/rfaa042" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3188085" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to preprint on SSRN</a>
 </div>
 ```
+
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

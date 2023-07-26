@@ -17,11 +17,22 @@ image: "figure.pdf"
 This article presents a general discrete-time affine framework aimed at jointly modeling yield curves associated with different debtors. The underlying fixed-income securities may differ in terms of credit quality and/or in terms of liquidity. The risk factors follow conditionally Gaussian processes, with drifts and covariance matrices that are subject to regime shifts described by a Markov chain with (historical) non-homogenous transition probabilities. Bond prices are given by quasi-explicit formulas. The tractability of the framework is illustrated by the estimation of a term-structure model of the spreads between U.S. BBB-rated corporate bonds and Treasuries. Alternative applications are proposed, including a sector-contagion model as well as the explicit modeling of credit-rating transitions.
 
 
+
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://academic.oup.com/jfec/article-abstract/11/2/221/782722?login=false" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://doi.org/10.1093/jjfinec/nbs020" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

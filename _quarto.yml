@@ -36,7 +36,6 @@ website:
       href: https://scholar.google.com/citations?user=DXgArakAAAAJ&hl=en
   
 
-# Don't touch unless you know what you are doing :) ------------
   search: 
     location: navbar
     type: textbox

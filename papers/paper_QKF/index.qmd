@@ -19,9 +19,27 @@ We propose a new filtering and smoothing technique for non-linear state-space mo
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://doi.org/10.1016/j.jeconom.2015.01.003" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://doi.org/10.1016/j.jeconom.2015.01.003" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
+<a class="btn btn-primary" href="http://www.runmycode.org/companion/view/313" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to replication code</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

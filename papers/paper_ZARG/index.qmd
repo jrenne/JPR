@@ -19,9 +19,18 @@ We build an Affine Term Structure Model that provides non-negative yields at any
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/abs/pii/S0304407617301653" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://doi.org/10.1016/j.jeconom.2017.08.013" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

@@ -17,11 +17,22 @@ image: "figure.pdf"
 This article presents an intensity-based model of euro-area sovereign spreads. To identify liquidity-pricing effects, we exploit the information contained in the spreads between bonds issued by a German agency (KfW) and their sovereign counterparts. KfW’s liabilities being guaranteed by the German government, these spreads are essentially liquidity-driven. Liquidity effects are found to account for a sizeable share of spreads’ fluctuations. After having filtered risk premiums out of the spreads, we estimate the physical default probabilities of eleven countries. Physical probabilities of default are lower than risk-neutral ones, consistently with the existence of a nondiversifiable euro-area sovereign credit risk.
 
 
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://academic.oup.com/rof/article/18/6/2103/1661774?login=false" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://academic.oup.com/rof/article/18/6/2103/1661774?login=false" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
 </div>
 ```
+
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

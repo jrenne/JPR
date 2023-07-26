@@ -17,11 +17,21 @@ image: "figure.pdf"
 We investigate the extent to which it is possible to detect asset-price booms and banking crises according to alternative identification strategies and we assess their robustness. We find some evidence that house price-booms are more likely to turn into costly recession or to trigger a banking crisis than stock-price booms. Resorting both to a non-parametric approach and a discrete-choice (logit) model, we analyze the ability of a wide set of indicators to robustly explain costly asset-price booms. According to our results, real long-term interest rates and real stock prices tend to increase the probability of a costly housing-price boom, whereas real GDP tends to increase the probability of a costly stock-price boom. Interestingly, the credit-to-GDP gap indicator, sometimes put forward in the literature as a key reference for setting countercyclical capital buffers, does not seem to be a robust leading indicator of costly booms or banking crises.
 
 
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/pii/S0378426614001769" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://doi.org/10.1016/j.jbankfin.2014.05.015" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

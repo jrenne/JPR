@@ -17,11 +17,39 @@ image: "figure.pdf"
 We develop a dynamic term structure model of sovereign credit risk based on the concept of fiscal fatigue. According to this concept, when debt is high, stabilizing it requires large surpluses, but these surpluses are difficult to maintain over long periods, which gives rise to sovereign credit risk. We define fiscal limits as the level of debt that would imply a given probability of default at a given horizon. Exploiting approximate bond pricing formulas, we extract the information contained in the term structure of sovereign credit spreads to retrieve time-varying estimates of fiscal limit and fiscal space---the distance between the limit and actual debt. An empirical exercise covers eight countries, including advanced and emerging economies, from 2007 to 2022. We find substantial temporal variation in our estimates of fiscal limit and fiscal space. Estimated fiscal spaces comove negatively with economic policy uncertainty and bond market volatility, and positively with the central bank's balance sheet.
 
 
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475425" role="button" target="_blank" style="padding: 5px 5px;">Link to paper on SSRN</a>
+<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3475425" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper on SSRN</a>
+<a class="btn btn-primary" href="https://www.dropbox.com/s/pd779gulba3bmou/FL_Rcodes.zip?dl=0" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Replication codes</a>
+<a class="btn btn-primary" href="https://jrenne.github.io/ShadowIntensity/" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Shadow-intensity models</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

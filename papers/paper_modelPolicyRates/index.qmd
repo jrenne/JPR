@@ -17,11 +17,23 @@ image: "figure.pdf"
 This paper presents a no-arbitrage yield-curve model that explicitly incorporates the central-bank policy rate. This model is consistent with the existence of a lower bound for nominal interest rates, which makes it particularly relevant in the current context of extremely low interest rates. Changes in the policy rates depend on the monetary-policy phase, that can be either in an easing, status quo or tightening mode. The estimation of the model, based on daily euro-area yield data, reveals the strong influence of the monetary-policy phases on the shape of the yield curve. This relationship can, in turn, be exploited to estimate the probabilities of being in the different monetary-policy phases. The model is also used to compute term premiums, that are the parts of the yields reflecting the aversion of investors to interest rate risk. The results point to the existence of statistically significant premiums for many dates, even for short horizons.
 
 
+
+
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.degruyter.com/document/doi/10.1515/snde-2016-0043/html?lang=en" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://www.degruyter.com/document/doi/10.1515/snde-2016-0043" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

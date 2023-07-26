@@ -16,17 +16,31 @@ image: "figure.pdf"
 The aim of the present chapter is to propose a general and tractable strategy to model the dynamics of the term structure of defaultable- bond yields. To achieve this, we rely on the properties of compound auto-regressive (Car) processes. The usefulness of these processes in the building of risk-free (non-defaultable) bond pricing models is now well documented (see Darolles, Gourieroux and Jasiak, 2006, Gourieroux and Monfort, 2007, Monfort and Pegoraro, 2007 or Le, Singleton and Da, 2011). On the contrary, the number of papers using Car processes in defaultable-bond pricing models is small.
 
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.cambridge.org/hn/universitypress/subjects/economics/macroeconomics-and-monetary-economics/developments-macro-finance-yield-curve-modelling" role="button" target="_blank" style="padding: 5px 5px;">Link to book</a>
-</div>
-```
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="Monfort_Renne_chapter.pdf" role="button" target="_blank" style="padding: 5px 5px;">Link to paper</a>
+<a class="btn btn-primary" href="https://www.cambridge.org/hn/universitypress/subjects/economics/macroeconomics-and-monetary-economics/developments-macro-finance-yield-curve-modelling" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to book</a>
+<a class="btn btn-primary" href="Monfort_Renne_chapter.pdf" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to chapter</a>
 </div>
 ```
+
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

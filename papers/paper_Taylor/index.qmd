@@ -16,11 +16,21 @@ image: "figure.pdf"
 
 We estimate the reaction function of monetary policy in the Euro area and derive the Taylor-type policy rule that a would-be ECB would have followed since the beginning of the European Monetary System (1979-2003). We first follow the standard GMM methodology developed by Clarida, Galí and Gertler (1998) under the statistically valid assumption of a stationary data set. A detailed robustness analysis is conducted, in order to assess how the estimation results are affected by changes in the period under review, the set of instruments and the way the output gap is computed. Using the Kalman filter, we estimate in particular a measure of the output gap that is consistent with a small macroeconomic model, which constitutes a novelty of our approach. Secondly, we re- estimate the historical interest rate rule under the assumption of non-stationary data over the 1985-2003 period, following a methodology recently proposed by Gerlach-Kristen (2003). These empirical investigations lead to a reasonably robust descriptive tool of the systematic element in the monetary policy that prevailed on average in the “Euro area” over the last two decades.
 
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://publications.banque-france.fr/sites/default/files/medias/documents/working-paper_117_2004.pdf" role="button" target="_blank" style="padding: 5px 5px;">Link to paper</a>
+<a class="btn btn-primary" href="https://publications.banque-france.fr/sites/default/files/medias/documents/working-paper_117_2004.pdf" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

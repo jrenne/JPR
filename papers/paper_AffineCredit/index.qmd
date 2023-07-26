@@ -17,11 +17,34 @@ image: "figure.pdf"
 We propose a discrete-time affine pricing model that simultaneously allows for (i) the presence of systemic entities by departing from the no-jump condition on the factors’ conditional distribution, (ii) contagion effects, and (iii) the pricing of credit events. Our affine framework delivers explicit pricing formulas for default-sensitive securities such as bonds and credit default swaps (CDSs). We estimate a euro-area multicountry version of the model and address economic questions related to the pricing of sovereign credit risk. We find that both frailty (common factors) and contagion phenomena are important to account for the joint dynamics of credit spreads. Our results also provide evidence of credit-event pricing, which is at the source of substantial credit risk premiums, even for short maturities. Finally, we extract measures of depreciation-at-default from CDSs denominated in different currencies.
 
 
+
+
+
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://doi.org/10.1287/mnsc.2020.3658" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://doi.org/10.1287/mnsc.2020.3658" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
+<a class="btn btn-primary" href="https://www.dropbox.com/s/1m0g9p4bt1vkhm2/Rcode_CDS.zip?dl=0" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to replication code</a>
 </div>
 ```
+
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->

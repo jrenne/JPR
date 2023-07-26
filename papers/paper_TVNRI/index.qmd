@@ -17,11 +17,21 @@ image: "figure.pdf"
 We estimate a time-varying “natural” rate of interest (TVNRI) for a synthetic euro area over the period 1979Q1–2004Q4 using a small macroeconomic model, broadly following a methodology developed by Laubach and Williams [2003. Measuring the natural rate of interest. The Review of Economics and Statistics 85(4), 1063–1070] for the United States. The Kalman filter simultaneously estimates the output gap and the natural rate of interest. Our identifying assumptions include a close relationship between the TVNRI and the low-frequency fluctuations of potential output growth. The difference between the real rate of interest and its estimated natural level offers valuable insights into the monetary policy stance over the last two decades and a half.
 
 
+
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.sciencedirect.com/science/article/pii/S0014292106001504" role="button" target="_blank" style="padding: 5px 5px;">Link to journal's website</a>
+<a class="btn btn-primary" href="https://doi.org/10.1016/j.euroecorev.2006.11.006" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
 </div>
 ```
+
 
 <!-- In order to have bibtex in place of R code, add in front matter: -->
 <!-- format: -->
