@@ -38,6 +38,15 @@ We define a disastrous default as the default of a systemic entity. Such an even
             color: #333;
             margin: 0 10px;
             font-size: 16px;">Link to preprint on SSRN</a>
+<a class="btn btn-primary" href="https://github.com/jrenne/DisastrousDefaults" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Codes on GitHub</a>
 </div>
 ```
 
