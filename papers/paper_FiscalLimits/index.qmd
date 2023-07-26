@@ -3,7 +3,7 @@ title: "Fiscal Fatigue, Fiscal Limits, and Sovereign Credit Spreads"
 author: "Jean-Paul Renne, Kevin Pallara"
 description: "Working Paper"
 date: "7/6/2023"
-categories: [term structure, credit risk, working paper]
+categories: [term structure, credit risk, public debt, working paper]
 image: "figure.pdf"
 ---
 

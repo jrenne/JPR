@@ -41,7 +41,7 @@ about:
 <!-- ``` -->
 
 
-I am a professor of economics at HEC Lausanne, which I joined in 2015. Previously, I worked as a senior economist at the [Banque de France](https://www.banque-france.fr/en/page-sommaire/research), and as head of operational research at the [French Debt Management Office](https://www.aft.gouv.fr) (Agence France Trésor). 
+I am a professor of economics at HEC Lausanne, which I joined in 2015. Previously, I worked as a senior economist at the [Banque de France](https://www.banque-france.fr/en/page-sommaire/research), and as the head of operational research at the [French Debt Management Office](https://www.aft.gouv.fr) (Agence France Trésor). 
 
 My research focuses on time series modeling, with applications to interest rate dynamics, catastrophe risk pricing, and public debt management.
 

@@ -5,6 +5,9 @@ title: "Photography"
 Butterflies are a family affair. The photos below were taken by Marie; you'll find many more on [her instagram account](https://www.instagram.com/marie.renne/). 
 
 ::: {layout-ncol=2}
+![](photo7.jpg)
+
+![](photo5.jpg)
 
 ![](photo1.jpg)
 
@@ -14,4 +17,5 @@ Butterflies are a family affair. The photos below were taken by Marie; you'll fi
 
 ![](photo4.jpg)
 
+![](photo6.jpg)
 :::
