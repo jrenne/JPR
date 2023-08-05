@@ -2,7 +2,7 @@
 title: "Required capital for long run risk"
 author: "Christian Gouriéroux, Alain Monfort, Jean-Paul Renne"
 description: "Journal of Economic Dynamics & Control"
-date: "8/18/2017"
+date: "8/1/2022"
 categories: [macroprudential policy, published]
 image: "figure.pdf"
 ---
