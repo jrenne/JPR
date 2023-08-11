@@ -1,5 +1,5 @@
 ---
-title: "Fiscal Fatigue, Fiscal Limits, and Sovereign Credit Spreads"
+title: "Fiscal fatigue, fiscal limits, and sovereign credit spreads"
 author: "Jean-Paul Renne, Kevin Pallara"
 description: "Working Paper"
 date: "7/6/2023"
