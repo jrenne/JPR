@@ -28,7 +28,7 @@ We develop a dynamic term structure model of sovereign credit risk based on the 
             text-decoration: none;
             color: #333;
             margin: 0 10px;
-            font-size: 16px;">Link to paper on SSRN</a>
+            font-size: 16px;">SSRN</a>
 <a class="btn btn-primary" href="https://www.dropbox.com/s/pd779gulba3bmou/FL_Rcodes.zip?dl=0" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
@@ -37,7 +37,7 @@ We develop a dynamic term structure model of sovereign credit risk based on the 
             text-decoration: none;
             color: #333;
             margin: 0 10px;
-            font-size: 16px;">Replication codes</a>
+            font-size: 16px;">Codes</a>
 <a class="btn btn-primary" href="https://jrenne.github.io/ShadowIntensity/" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
@@ -46,7 +46,16 @@ We develop a dynamic term structure model of sovereign credit risk based on the 
             text-decoration: none;
             color: #333;
             margin: 0 10px;
-            font-size: 16px;">Shadow-intensity models</a>
+            font-size: 16px;">Shadow intensity</a>
+<a class="btn btn-primary" href="OA.pdf" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Online Appendix</a>
 </div>
 ```
 
