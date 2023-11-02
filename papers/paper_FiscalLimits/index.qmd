@@ -2,7 +2,7 @@
 title: "Fiscal fatigue, fiscal limits, and sovereign credit spreads"
 author: "Jean-Paul Renne, Kevin Pallara"
 description: "Working Paper"
-date: "7/6/2023"
+date: "11/1/2023"
 categories: [term structure, credit risk, public debt, working paper]
 image: "figure.pdf"
 ---
@@ -14,7 +14,7 @@ image: "figure.pdf"
 <!-- image: "figure.jpeg" -->
 
 
-We develop a dynamic term structure model of sovereign credit risk based on the concept of fiscal fatigue. According to this concept, when debt is high, stabilizing it requires large surpluses, but these surpluses are difficult to maintain over long periods, which gives rise to sovereign credit risk. We define fiscal limits as the level of debt that would imply a given probability of default at a given horizon. Exploiting approximate bond pricing formulas, we extract the information contained in the term structure of sovereign credit spreads to retrieve time-varying estimates of fiscal limit and fiscal space---the distance between the limit and actual debt. An empirical exercise covers eight countries, including advanced and emerging economies, from 2007 to 2022. We find substantial temporal variation in our estimates of fiscal limit and fiscal space. Estimated fiscal spaces comove negatively with economic policy uncertainty and bond market volatility, and positively with the central bank's balance sheet.
+We develop a dynamic sovereign credit risk model using the concept of fiscal fatigue, according to which stabilizing high debt levels requires unsustainable large surpluses, leading ultimately to credit risk. We define the fiscal limit as the debt level associated with a specific default probability at a given time. Exploiting the information encoded in sovereign credit spreads, we estimate time-varying fiscal limits and fiscal spaces (the gap between these limits and actual debts) for eight countries from 2007 to 2022. Fiscal spaces correlate negatively with economic policy uncertainty and bond market volatility, but positively with central bank balance sheet size.
 
 
 
