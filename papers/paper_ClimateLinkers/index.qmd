@@ -1,8 +1,8 @@
 ---
-title: "Pricing climate linkers"
+title: "An Analytical Framework to Price Long-Dated Climate-Exposed Assets"
 author: "Pauline Chikhani, Jean-Paul Renne"
 description: "Working Paper"
-date: "7/25/2022"
+date: "12/7/2023"
 categories: [term structure, climate risks, working paper]
 image: "figure.pdf"
 ---
@@ -14,13 +14,13 @@ image: "figure.pdf"
 <!-- image: "figure.jpeg" -->
 
 
-We define climate linkers as long-dated financial instruments--bonds or derivatives--with payoffs indexed to climate-related variables, e.g., temperatures or sea levels. We develop an integrated assessment model (IAM) and use it to study the cost and risk characteristics of these (hypothetical) instruments. Climate linkers' prices would embed climate risk premiums: because of the insurance provided by a bond indexed on temperatures (say), investors would demand a lower return on such a bond than on conventional bonds. Our findings highlight the sensitivity of these premiums to the assumptions regarding climate-induced damages.
+This paper uses a tractable stochastic integrated-assessment model to analyze the influence of climate change on asset returns across time and maturity. Analytical formulas allow to price various long-dated assets, including fixed-income products, derivatives, and equities. We find that climate risks will increasingly drive down long-term risk-free yields, reducing them by about 40 basis points by the end of the century, reflecting lower growth and increased uncertainty. We illustrate the concept of climate risk premiums--the excess returns asked by investors exposed to climate risks--by examining model-implied prices of long-term assets vulnerable to sea level rise or temperatures. Climate risk premiums are particularly sensitive to damage assumptions.
 
 
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881262" role="button" target="_blank" style="            display: inline-block;
+<a class="btn btn-primary" href="CR.pdf" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
             border-radius: 20px;
@@ -28,7 +28,7 @@ We define climate linkers as long-dated financial instruments--bonds or derivati
             text-decoration: none;
             color: #333;
             margin: 0 10px;
-            font-size: 16px;">Link to paper on SSRN</a>
+            font-size: 16px;">Link to paper</a>
 <a class="btn btn-primary" href="https://jrenne.shinyapps.io/AP-IAM/" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
