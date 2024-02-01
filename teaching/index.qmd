@@ -38,6 +38,8 @@ The identification and estimation of dynamic responses to structural shocks is o
 
 ## Dynamic Pricing with Discrete Time Affine Processes (Ph.D.)
 
+<a href="https://jrenne.github.io/TSM_bookdown/" target="_blank">Online material</a>
+
 This course, developed with [Alain Monfort](https://faculty.crest.fr/amonfort/), shows how discrete time affine processes can be used to derive asset prices and to model their dynamics. A first part presents the discrete-time affine processes and their properties. It highlights the richness of these processes and shows how they can conveniently be incorporated within asset-pricing frameworks. A second part presents various applications. It focuses in particular on the pricing of commodity-related financial products, interest rates, credit, liquidity, contagion and systemic risks.
 
 
