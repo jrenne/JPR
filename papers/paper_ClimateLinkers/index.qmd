@@ -2,7 +2,7 @@
 title: "An analytical framework to price long-dated climate-exposed assets"
 author: "Pauline Chikhani, Jean-Paul Renne"
 description: "Working Paper"
-date: "12/7/2023"
+date: "2/24/2024"
 categories: [term structure, climate risks, working paper]
 image: "figure.pdf"
 ---
