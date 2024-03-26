@@ -7,6 +7,7 @@ categories: [term structure, credit risk, public debt, working paper]
 image: "figure.pdf"
 ---
 
+
 <!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
 
 <!-- subtitle: -->
