@@ -2,7 +2,7 @@
 title: "Fiscal fatigue and sovereign credit spreads"
 author: "Jean-Paul Renne, Kevin Pallara"
 description: "Working Paper"
-date: "3/24/2024"
+date: "5/16/2024"
 categories: [term structure, credit risk, public debt, working paper]
 image: "figure.pdf"
 ---
