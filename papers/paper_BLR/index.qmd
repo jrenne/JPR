@@ -1,0 +1,66 @@
+---
+title: "Time-varying risk aversion and inflation-consumption correlation in an equilibrium term structure model"
+author: "Tilman Bletzinger, Wolfgang Lemke, Jean-Paul Renne"
+description: "Working Paper"
+date: "7/2/2024"
+categories: [term structure, working paper]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+Inflation risk premiums tend to be positive in an economy mainly hit by supply shocks, and negative if demand shocks dominate. Risk premiums also fluctuate with risk aversion. We shed light on this nexus in a linear-quadratic equilibrium macro-finance model featuring time variation in inflation-consumption correlation and risk aversion. We obtain analytical solutions for  real and nominal yield curves and for risk premiums. While changes in the inflation-consumption correlation drive nominal yields, changes in risk aversion drive real yields and act as amplifier on nominal yields. Combining a trend-cycle specification of real consumption with hysteresis effects generates an upward-sloping real yield curve. Estimating the model on US data from 1961 to 2019 confirms substantial time variation in inflation risk premiums: distinctly positive in the earlier part of our sample, especially during the 1980s, and turning negative with the onset of the new millennium.
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="BLR.pdf" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
+<a class="btn btn-primary" href="OA.pdf" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Online Appendix</a>
+<a class="btn btn-primary" href="https://github.com/jrenne/Codes_BLR" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Replication codes</a>
+</div>
+```
+
+
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->
