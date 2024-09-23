@@ -6,7 +6,34 @@ title: Teaching
 
 <!-- <img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/> -->
 
-<a href="https://jrenne.github.io/EcoStat/" target="_blank">Online material</a>
+```{=html}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Links</title>
+    <style>
+        .link-button {
+            display: inline-block;
+            padding: 7px 15px; /* Adjust padding for appearance */
+            margin: 10px; /* Space between buttons */
+            text-decoration: none; /* Remove underline */
+            color: white; /* Text color */
+            background-color: #66B2FF; /* Button color */
+            border-radius: 10px; /* Rounded corners */
+            transition: background-color 0.3s, transform 0.3s; /* Transition effects */
+        }
+
+        .link-button:hover {
+            background-color: #0056b3; /* Darker color on hover */
+            transform: scale(1.05); /* Slightly enlarge */
+        }
+    </style>
+
+    <a href="https://jrenne.github.io/EcoStat/" target="_blank" class="link-button">Online Material</a>
+    <a href="https://github.com/jrenne/EcoStat/blob/main/docs/EcoStat.pdf" target="_blank" class="link-button">Download PDF</a>
+
+```
+
+
 
 This course covers various econometric topics, including linear regression models, discrete-choice models, and an introduction to time series analysis. It provides examples or simulations based on R codes. 
 
@@ -14,7 +41,33 @@ This course covers various econometric topics, including linear regression model
 
 ## Macroeconometrics -- Introduction to time series (MSc)
 
-<a href="https://jrenne.github.io/TimeSeries_Bookdown/" target="_blank">Online material</a>
+```{=html}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Links</title>
+    <style>
+        .link-button {
+            display: inline-block;
+            padding: 7px 15px; /* Adjust padding for appearance */
+            margin: 10px; /* Space between buttons */
+            text-decoration: none; /* Remove underline */
+            color: white; /* Text color */
+            background-color: #66B2FF; /* Button color */
+            border-radius: 10px; /* Rounded corners */
+            transition: background-color 0.3s, transform 0.3s; /* Transition effects */
+        }
+
+        .link-button:hover {
+            background-color: #0056b3; /* Darker color on hover */
+            transform: scale(1.05); /* Slightly enlarge */
+        }
+    </style>
+
+    <a href="https://jrenne.github.io/TimeSeries_Bookdown/" target="_blank" class="link-button">Online Material</a>
+    <a href="https://github.com/jrenne/TimeSeries_Bookdown/blob/main/docs/TimeSeries.pdf" target="_blank" class="link-button">Download PDF</a>
+
+```
+
 
 Time series constitute a prevalent data type in several disciplines, notably macroeconomics and finance. The modeling of time series is crucial for many purposes, including forecasting, understanding macroeconomic mechanisms, and risk assessment. 
 
@@ -22,7 +75,33 @@ Time series constitute a prevalent data type in several disciplines, notably mac
 
 ## Microeconometrics (MSc)
 
-<a href="https://jrenne.github.io/MicroEc_bookdown/" target="_blank">Online material</a>
+
+```{=html}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Links</title>
+    <style>
+        .link-button {
+            display: inline-block;
+            padding: 7px 15px; /* Adjust padding for appearance */
+            margin: 10px; /* Space between buttons */
+            text-decoration: none; /* Remove underline */
+            color: white; /* Text color */
+            background-color: #66B2FF; /* Button color */
+            border-radius: 10px; /* Rounded corners */
+            transition: background-color 0.3s, transform 0.3s; /* Transition effects */
+        }
+
+        .link-button:hover {
+            background-color: #0056b3; /* Darker color on hover */
+            transform: scale(1.05); /* Slightly enlarge */
+        }
+    </style>
+
+    <a href="https://jrenne.github.io/MicroEc_bookdown/" target="_blank" class="link-button">Online Material</a>
+    <a href="https://github.com/jrenne/MicroEc_bookdown/blob/main/docs/MicroEc.pdf" target="_blank" class="link-button">Download PDF</a>
+
+```
 
 In microeconometric models, the variables of interest often feature restricted distributions--for instance with discontinuous support--, which necessitates specific models. Typical examples are discrete-choice models (binary, multinomial, ordered outcomes), sample selection models (censored or truncated outcomes), and count-data models (integer outcomes). The course describes the estimation and interpretation of these models. It also shows how the discrete-choice models can emerge from (structural) random-utility frameworks.
 
@@ -30,7 +109,33 @@ In microeconometric models, the variables of interest often feature restricted d
 
 ## The Identification of Dynamic Structural Shocks (Ph.D.)
 
-<a href="https://jrenne.github.io/IdentifStructShocks/" target="_blank">Online material</a>
+
+```{=html}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Links</title>
+    <style>
+        .link-button {
+            display: inline-block;
+            padding: 7px 15px; /* Adjust padding for appearance */
+            margin: 10px; /* Space between buttons */
+            text-decoration: none; /* Remove underline */
+            color: white; /* Text color */
+            background-color: #66B2FF; /* Button color */
+            border-radius: 10px; /* Rounded corners */
+            transition: background-color 0.3s, transform 0.3s; /* Transition effects */
+        }
+
+        .link-button:hover {
+            background-color: #0056b3; /* Darker color on hover */
+            transform: scale(1.05); /* Slightly enlarge */
+        }
+    </style>
+
+    <a href="https://jrenne.github.io/IdentifStructShocks/" target="_blank" class="link-button">Online Material</a>
+    <a href="https://github.com/jrenne/IdentifStructShocks/blob/main/docs/IdentifStructShocks.pdf" target="_blank" class="link-button">Download PDF</a>
+
+```
 
 The identification and estimation of dynamic responses to structural shocks is one of the principal goals of macroeconometrics. These responses correspond to the effect, over time, of an exogenous intervention that propagates through the economy, as modeled by a system of simultaneous equations. Over the last decades, several methodologies have been proposed so as to estimate these responses. The objective of this course, developed jointly with [Kenza Benhima](https://sites.google.com/site/benhimakenza/), is to provide an exhaustive view of these methodologies and to provide students with tools enabling them to implement them in various contexts.
 
@@ -38,7 +143,33 @@ The identification and estimation of dynamic responses to structural shocks is o
 
 ## Dynamic Pricing with Discrete Time Affine Processes (Ph.D.)
 
-<a href="https://jrenne.github.io/TSM_bookdown/" target="_blank">Online material</a>
+
+```{=html}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Links</title>
+    <style>
+        .link-button {
+            display: inline-block;
+            padding: 7px 15px; /* Adjust padding for appearance */
+            margin: 10px; /* Space between buttons */
+            text-decoration: none; /* Remove underline */
+            color: white; /* Text color */
+            background-color: #66B2FF; /* Button color */
+            border-radius: 10px; /* Rounded corners */
+            transition: background-color 0.3s, transform 0.3s; /* Transition effects */
+        }
+
+        .link-button:hover {
+            background-color: #0056b3; /* Darker color on hover */
+            transform: scale(1.05); /* Slightly enlarge */
+        }
+    </style>
+
+    <a href="https://jrenne.github.io/TSM_bookdown/" target="_blank" class="link-button">Online Material</a>
+    <a href="https://github.com/jrenne/TSM_bookdown/blob/main/docs/TSM.pdf" target="_blank" class="link-button">Download PDF</a>
+
+```
 
 This course, developed with [Alain Monfort](https://faculty.crest.fr/amonfort/), shows how discrete time affine processes can be used to derive asset prices and to model their dynamics. A first part presents the discrete-time affine processes and their properties. It highlights the richness of these processes and shows how they can conveniently be incorporated within asset-pricing frameworks. A second part presents various applications. It focuses in particular on the pricing of commodity-related financial products, interest rates, credit, liquidity, contagion and systemic risks.
 

@@ -298,42 +298,42 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "Online material\nThis course covers various econometric topics, including linear regression models, discrete-choice models, and an introduction to time series analysis. It provides examples or simulations based on R codes."
+    "text": "Styled Links\n    \n\n    Online Material\n    Download PDF\n\nThis course covers various econometric topics, including linear regression models, discrete-choice models, and an introduction to time series analysis. It provides examples or simulations based on R codes."
   },
   {
     "objectID": "teaching/index.html#statistics-and-econometrics-bachelor-3rd-year",
     "href": "teaching/index.html#statistics-and-econometrics-bachelor-3rd-year",
     "title": "Teaching",
     "section": "",
-    "text": "Online material\nThis course covers various econometric topics, including linear regression models, discrete-choice models, and an introduction to time series analysis. It provides examples or simulations based on R codes."
+    "text": "Styled Links\n    \n\n    Online Material\n    Download PDF\n\nThis course covers various econometric topics, including linear regression models, discrete-choice models, and an introduction to time series analysis. It provides examples or simulations based on R codes."
   },
   {
     "objectID": "teaching/index.html#macroeconometrics-introduction-to-time-series-msc",
     "href": "teaching/index.html#macroeconometrics-introduction-to-time-series-msc",
     "title": "Teaching",
     "section": "Macroeconometrics – Introduction to time series (MSc)",
-    "text": "Macroeconometrics – Introduction to time series (MSc)\nOnline material\nTime series constitute a prevalent data type in several disciplines, notably macroeconomics and finance. The modeling of time series is crucial for many purposes, including forecasting, understanding macroeconomic mechanisms, and risk assessment."
+    "text": "Macroeconometrics – Introduction to time series (MSc)\n    \n    \n    Styled Links\n    \n\n    Online Material\n    Download PDF\n\nTime series constitute a prevalent data type in several disciplines, notably macroeconomics and finance. The modeling of time series is crucial for many purposes, including forecasting, understanding macroeconomic mechanisms, and risk assessment."
   },
   {
     "objectID": "teaching/index.html#microeconometrics-msc",
     "href": "teaching/index.html#microeconometrics-msc",
     "title": "Teaching",
     "section": "Microeconometrics (MSc)",
-    "text": "Microeconometrics (MSc)\nOnline material\nIn microeconometric models, the variables of interest often feature restricted distributions–for instance with discontinuous support–, which necessitates specific models. Typical examples are discrete-choice models (binary, multinomial, ordered outcomes), sample selection models (censored or truncated outcomes), and count-data models (integer outcomes). The course describes the estimation and interpretation of these models. It also shows how the discrete-choice models can emerge from (structural) random-utility frameworks."
+    "text": "Microeconometrics (MSc)\n    \n    \n    Styled Links\n    \n\n    Online Material\n    Download PDF\n\nIn microeconometric models, the variables of interest often feature restricted distributions–for instance with discontinuous support–, which necessitates specific models. Typical examples are discrete-choice models (binary, multinomial, ordered outcomes), sample selection models (censored or truncated outcomes), and count-data models (integer outcomes). The course describes the estimation and interpretation of these models. It also shows how the discrete-choice models can emerge from (structural) random-utility frameworks."
   },
   {
     "objectID": "teaching/index.html#the-identification-of-dynamic-structural-shocks-ph.d.",
     "href": "teaching/index.html#the-identification-of-dynamic-structural-shocks-ph.d.",
     "title": "Teaching",
     "section": "The Identification of Dynamic Structural Shocks (Ph.D.)",
-    "text": "The Identification of Dynamic Structural Shocks (Ph.D.)\nOnline material\nThe identification and estimation of dynamic responses to structural shocks is one of the principal goals of macroeconometrics. These responses correspond to the effect, over time, of an exogenous intervention that propagates through the economy, as modeled by a system of simultaneous equations. Over the last decades, several methodologies have been proposed so as to estimate these responses. The objective of this course, developed jointly with Kenza Benhima, is to provide an exhaustive view of these methodologies and to provide students with tools enabling them to implement them in various contexts."
+    "text": "The Identification of Dynamic Structural Shocks (Ph.D.)\n    \n    \n    Styled Links\n    \n\n    Online Material\n    Download PDF\n\nThe identification and estimation of dynamic responses to structural shocks is one of the principal goals of macroeconometrics. These responses correspond to the effect, over time, of an exogenous intervention that propagates through the economy, as modeled by a system of simultaneous equations. Over the last decades, several methodologies have been proposed so as to estimate these responses. The objective of this course, developed jointly with Kenza Benhima, is to provide an exhaustive view of these methodologies and to provide students with tools enabling them to implement them in various contexts."
   },
   {
     "objectID": "teaching/index.html#dynamic-pricing-with-discrete-time-affine-processes-ph.d.",
     "href": "teaching/index.html#dynamic-pricing-with-discrete-time-affine-processes-ph.d.",
     "title": "Teaching",
     "section": "Dynamic Pricing with Discrete Time Affine Processes (Ph.D.)",
-    "text": "Dynamic Pricing with Discrete Time Affine Processes (Ph.D.)\nOnline material\nThis course, developed with Alain Monfort, shows how discrete time affine processes can be used to derive asset prices and to model their dynamics. A first part presents the discrete-time affine processes and their properties. It highlights the richness of these processes and shows how they can conveniently be incorporated within asset-pricing frameworks. A second part presents various applications. It focuses in particular on the pricing of commodity-related financial products, interest rates, credit, liquidity, contagion and systemic risks."
+    "text": "Dynamic Pricing with Discrete Time Affine Processes (Ph.D.)\n    \n    \n    Styled Links\n    \n\n    Online Material\n    Download PDF\n\nThis course, developed with Alain Monfort, shows how discrete time affine processes can be used to derive asset prices and to model their dynamics. A first part presents the discrete-time affine processes and their properties. It highlights the richness of these processes and shows how they can conveniently be incorporated within asset-pricing frameworks. A second part presents various applications. It focuses in particular on the pricing of commodity-related financial products, interest rates, credit, liquidity, contagion and systemic risks."
   },
   {
     "objectID": "cv/index.html",
