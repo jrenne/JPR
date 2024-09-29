@@ -270,7 +270,7 @@
     "href": "papers/paper_PDMAnalyt/index.html",
     "title": "An analytical framework for public debt management",
     "section": "",
-    "text": "This paper introduces a macro-finance framework for evaluating the performance of public debt management strategies. Within the model, risk-averse investors may lose confidence in debt sustainability when indebtedness reaches high levels. Since the government’s choice of securities affects debt dynamics, public debt management influences default probability in the model. Featuring stochastic macroeconomic shocks, the model produces realistic macro-finance dynamics. It is calibrated and used to explore the cost and risk implications of issuance strategies that vary across three dimensions: maturity, inflation indexation, and GDP indexation.\n\nLink to paper\nReplication codes"
+    "text": "This paper introduces a macro-finance framework for evaluating the performance of public debt management strategies. Within the model, risk-averse investors may lose confidence in debt sustainability when indebtedness reaches high levels. Since the government’s choice of securities affects debt dynamics, public debt management influences default probability in the model. Featuring stochastic macroeconomic shocks, the model produces realistic macro-finance dynamics. It is calibrated and used to explore the cost and risk implications of issuance strategies that vary across three dimensions: maturity, inflation indexation, and GDP indexation.\n\nLink to paper\nLink to slides\nReplication codes"
   },
   {
     "objectID": "papers/paper_JBF_Quadratic/index.html",
