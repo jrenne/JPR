@@ -35,7 +35,6 @@ title: Teaching
 ```
 
 
-
 This course covers various econometric topics, including linear regression models, discrete-choice models, and an introduction to time series analysis. It provides examples or simulations based on R codes. 
 
 ----

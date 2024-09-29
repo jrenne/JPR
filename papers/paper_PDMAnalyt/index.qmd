@@ -1,0 +1,57 @@
+---
+title: "An analytical framework for public debt management"
+author: "Jean-Paul Renne"
+description: "Working Paper"
+date: "9/29/2024"
+categories: [term structure, working paper, public debt]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+This paper introduces a macro-finance framework for evaluating the performance of public debt management strategies. Within the model, risk-averse investors may lose confidence in debt sustainability when indebtedness reaches high levels. Since the government's choice of securities affects debt dynamics, public debt management influences default probability in the model. Featuring stochastic macroeconomic shocks, the model produces realistic macro-finance dynamics. It is calibrated and used to explore the cost and risk implications of issuance strategies that vary across three dimensions: maturity, inflation indexation, and GDP indexation.
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="PDMAnalyt.pdf" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
+<a class="btn btn-primary" href="https://github.com/jrenne/PDMAnalyt" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Replication codes</a>
+</div>
+```
+
+
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->
