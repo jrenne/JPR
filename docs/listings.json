@@ -2,8 +2,8 @@
   {
     "listing": "/research.html",
     "items": [
-      "/papers/paper_PDMAnalyt/index.html",
       "/papers/paper_BLR/index.html",
+      "/papers/paper_PDMAnalyt/index.html",
       "/papers/paper_FiscalLimits/index.html",
       "/papers/paper_GDPLB/index.html",
       "/papers/paper_ClimateLinkers/index.html",

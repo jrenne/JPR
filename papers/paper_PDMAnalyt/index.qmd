@@ -2,7 +2,7 @@
 title: "An analytical framework for public debt management"
 author: "Jean-Paul Renne"
 description: "Working Paper"
-date: "12/17/2024"
+date: "9/29/2024"
 categories: [term structure, working paper, public debt]
 image: "figure.pdf"
 ---
