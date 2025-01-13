@@ -1,9 +1,9 @@
 ---
 title: "Time-varying risk aversion and inflation-consumption correlation in an equilibrium term structure model"
 author: "Tilman Bletzinger, Wolfgang Lemke, Jean-Paul Renne"
-description: "Working Paper"
-date: "12/17/2024"
-categories: [term structure, working paper]
+description: "Journal of Financial Econometrics"
+date: "01/13/2025"
+categories: [term structure, published]
 image: "figure.pdf"
 ---
 
