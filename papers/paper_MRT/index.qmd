@@ -1,0 +1,47 @@
+---
+title: "Inflation and growth risk: balancing the scales with surveys"
+author: "Sarah Mouabbi Jean-Paul Renne Adrien Tschopp"
+description: "Working Paper"
+date: "6/10/2025"
+categories: [term structure, macroeconomic dynamics, working paper]
+image: "figure.pdf"
+---
+
+<!-- description: "Affine Term Structure Model that provides non-negative yields and is able to accommodate a short-term rate that stays at the zero lower bound (ZLB) for extended periods of time." -->
+
+<!-- subtitle: -->
+
+<!-- image: "figure.jpeg" -->
+
+
+Post-pandemic inflation has highlighted the tensions that can arise between the objectives of price stability and growth. To evaluate the risks facing US prices and production, we leverage the probabilistic responses from surveys of professional forecasters. We introduce a dynamic factor model with time-varying uncertainty and asymmetry to capture the joint dynamics of inflation and GDP growth. This framework enables us to decompose their drivers into demand and supply components across business-cycle and lower frequencies. We find that tail risk is prominent in the data in the 1980s and during the Great Recession for inflation, and during the 1980s and in the period following COVID-19 for GDP growth. The post-pandemic surge in inflation is attributed to temporary adverse supply and persistent positive demand pressures. Furthermore, the model-implied correlation between inflation and growth is time-varying and negatively related to nominal term premiums. On average, it is positive, suggesting that professional forecasters do not have stagflationary beliefs.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274480" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper on SSRN</a>
+</div>
+```
+
+
+
+<!-- In order to have bibtex in place of R code, add in front matter: -->
+<!-- format: -->
+<!--   html: -->
+<!--     code-fold: true -->
+<!--     code-summary: "Bibtex" -->
+
+<!-- ```{r essai, eval=FALSE} -->
+<!-- article = { -->
+<!--   author = {JPR}, -->
+<!--   year=2010 -->
+<!-- } -->
+<!-- ``` -->

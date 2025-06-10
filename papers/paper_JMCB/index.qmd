@@ -3,7 +3,7 @@ title: "Measuring inflation anchoring and uncertainty: A U.S. and euro area comp
 author: "Olesya Grishchenko, Sarah Mouabbi, Jean-Paul Renne"
 description: "Journal of Money, Credit & Banking"
 date: "5/20/2019"
-categories: [monetary policy, macroeconomic dynamics, published]
+categories: [term structure, monetary policy, macroeconomic dynamics, published]
 image: "figure.pdf"
 ---
 
