@@ -3,14 +3,15 @@
 # website settings
 website:
   title: "J.-P. Renne"
-  description: "J.-P. Renne personal website"   # A brief slogan (optional)
+  description: "J.-P. Renne personal website"
+  site-url: https://jrenne.github.io/JPR
   image: img/JPR2022.jpg
   favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: img/logo.png
     
     # your sub-pages
     left:
