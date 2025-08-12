@@ -1,9 +1,9 @@
 ---
 title: "An analytical framework to price long-dated climate-exposed assets"
 author: "Pauline Chikhani, Jean-Paul Renne"
-description: "Working Paper"
-date: "2/24/2024"
-categories: [term structure, climate risks, working paper]
+description: "Quantitative Economics"
+date: "8/12/2025"
+categories: [term structure, climate risks, published]
 image: "figure.pdf"
 ---
 
@@ -20,7 +20,7 @@ This paper uses a tractable stochastic integrated-assessment model to analyze th
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881262" role="button" target="_blank" style="            display: inline-block;
+<a class="btn btn-primary" href="https://www.econometricsociety.org/publications/quantitative-economics/forthcoming-papers" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
             border-radius: 20px;
@@ -28,7 +28,7 @@ This paper uses a tractable stochastic integrated-assessment model to analyze th
             text-decoration: none;
             color: #333;
             margin: 0 10px;
-            font-size: 16px;">Link to paper on SSRN</a>
+            font-size: 16px;">Link to paper</a>
 <a class="btn btn-primary" href="https://jrenne.shinyapps.io/AP-IAM/" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
@@ -38,7 +38,7 @@ This paper uses a tractable stochastic integrated-assessment model to analyze th
             color: #333;
             margin: 0 10px;
             font-size: 16px;">R-Shiny interface</a>
-<a class="btn btn-primary" href="https://github.com/jrenne/CR_Rcodes" role="button" target="_blank" style="            display: inline-block;
+<a class="btn btn-primary" href="https://zenodo.org/records/16740066" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
             border-radius: 20px;
