@@ -14,6 +14,7 @@ image: "figure.pdf"
 <!-- image: "figure.jpeg" -->
 
 
+
 This paper uses a tractable stochastic integrated-assessment model to analyze the influence of climate change on asset returns across time and maturity. Analytical formulas allow to price various long-dated assets, including fixed-income products, derivatives, and equities. We find that climate risks will increasingly drive down long-term risk-free yields, reducing them by about 40 basis points by the end of the century, reflecting lower growth and increased uncertainty. We illustrate the concept of climate risk premiums--the excess returns asked by investors exposed to climate risks--by examining model-implied prices of long-term assets vulnerable to sea level rise or temperatures. Climate risk premiums are particularly sensitive to damage assumptions.
 
 
