@@ -2,7 +2,7 @@
 title: "An analytical framework to price long-dated climate-exposed assets"
 author: "Pauline Chikhani, Jean-Paul Renne"
 description: "Quantitative Economics"
-date: "8/12/2025"
+date: "11/19/2025"
 categories: [term structure, climate risks, published]
 image: "figure.pdf"
 ---
@@ -20,7 +20,7 @@ This paper uses a tractable stochastic integrated-assessment model to analyze th
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.econometricsociety.org/publications/quantitative-economics/forthcoming-papers" role="button" target="_blank" style="            display: inline-block;
+<a class="btn btn-primary" href="https://doi.org/10.3982/QE2570" role="button" target="_blank" style="            display: inline-block;
             padding: 10px 20px;
             border: 2px solid #333;
             border-radius: 20px;
