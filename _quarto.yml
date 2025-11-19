@@ -54,7 +54,7 @@ project:
     navigate: true
 
 execute:
-  freeze: true
+  freeze: auto
 
 bibliography: biblio.bib
 
