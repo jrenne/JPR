@@ -1,0 +1,34 @@
+---
+title: "The Shadow Rate Model: Let’s Make it Real!"
+author: "Adam Golinski, Sophie Guilloux-Nefussi, Jean-Paul Renne"
+description: "Banque de France Working Paper"
+date: "10/7/2025"
+categories: [term structure, monetary policy, working paper]
+image: "fig_probs2.pdf"
+---
+
+This paper expands upon conventional shadow rate models, which typically concentrate on the term structure of nominal yields, by integrating real interest rates. Close to zero-lower-bound periods, real rates inherit part of the non-linearity stemming from the constraints that apply to nominal rates. We introduce a specific macro-finance adaptation of our real/nominal shadow rate model and apply it to U.S. data spanning the last five decades. We exploit the model to calculate real and nominal term premiums and to examine how the dynamic responses of real and nominal rates to economic shocks are constrained during zero-lower-bound periods.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="WP1014.pdf" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Link to paper</a>
+<a class="btn btn-primary" href="https://www.banque-france.fr/en/publications-and-statistics/publications/shadow-rate-model-lets-make-it-real" role="button" target="_blank" style="            display: inline-block;
+            padding: 10px 20px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background-color: #f1f1f1;
+            text-decoration: none;
+            color: #333;
+            margin: 0 10px;
+            font-size: 16px;">Banque de France page</a>
+</div>
+```

@@ -45,7 +45,6 @@ I am a professor of economics at HEC Lausanne, which I joined in 2015. Previousl
 
 My research focuses on time series modeling, with applications to interest rate dynamics, catastrophe risk pricing, and public debt management.
 
-I have carried out consulting assignments for various institutions (ECB, OECD, Banque de France, EDF, Swiss federal finance administration).
+I have carried out consulting assignments for various institutions: European Central Bank (ECB), Bank for International Settlements (BIS), Organisation for Economic Co-operation and Development (OECD), Banque de France, Électricité de France (EDF), Swiss Federal Finance Administration (AFF), Swiss State Secretariat for Economic Affairs (SECO).
 
 On this website, you'll find my published work, my work in progress, and links to related material (codes). Please feel free to [contact me](mailto:jean-paul.renne@unil.ch) if you have any questions.
-

@@ -146,6 +146,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="quarto-categories">
     <div class="quarto-category">macroprudential policy</div>
     <div class="quarto-category">published</div>
+    <div class="quarto-category">climate risks</div>
   </div>
   </div>
 
@@ -210,6 +211,104 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<script>
+(function () {
+  function decodeCategory(category) {
+    try {
+      return decodeURIComponent(window.atob(category));
+    } catch (_error) {
+      return category;
+    }
+  }
+
+  function setCategoryHash(category) {
+    window.history.pushState(null, null, `#category=${category}`);
+  }
+
+  function activateCategory(category) {
+    const activeEls = window.document.querySelectorAll(
+      ".quarto-listing-category .category.active"
+    );
+    for (const activeEl of activeEls) {
+      activeEl.classList.remove("active");
+    }
+
+    const categoryEl = window.document.querySelector(
+      `.quarto-listing-category .category[data-category='${category}']`
+    );
+    if (categoryEl) {
+      categoryEl.classList.add("active");
+    }
+
+    filterListingCategory(category);
+  }
+
+  function filterListingCategory(category) {
+    const listings = window["quarto-listings"] || {};
+    const listingIds = Object.keys(listings);
+    const selectedCategory = decodeCategory(category).trim();
+
+    for (const listingId of listingIds) {
+      const list = listings[listingId];
+      if (!list) {
+        continue;
+      }
+
+      if (category === "") {
+        list.filter();
+        continue;
+      }
+
+      list.filter(function (item) {
+        const itemValues = item.values();
+        if (itemValues.categories === null) {
+          return false;
+        }
+
+        const rawCategories = itemValues.categories.split(",");
+        const decodedCategories = decodeCategory(itemValues.categories)
+          .split(",")
+          .map((category) => category.trim());
+
+        return (
+          rawCategories.includes(category) ||
+          decodedCategories.includes(selectedCategory)
+        );
+      });
+    }
+  }
+
+  function attachCategoryHandlers() {
+    const categoryEls = window.document.querySelectorAll(
+      ".quarto-listing-category .category"
+    );
+    for (const categoryEl of categoryEls) {
+      const category = categoryEl.getAttribute("data-category");
+      categoryEl.onclick = function () {
+        activateCategory(category);
+        setCategoryHash(category);
+      };
+    }
+
+    const categoryTitleEls = window.document.querySelectorAll(
+      ".quarto-listing-category-title"
+    );
+    for (const categoryTitleEl of categoryTitleEls) {
+      categoryTitleEl.onclick = function () {
+        activateCategory("");
+        setCategoryHash("");
+      };
+    }
+  }
+
+  window.quartoListingCategory = function (category) {
+    activateCategory(category);
+    setCategoryHash(category);
+  };
+
+  window.document.addEventListener("DOMContentLoaded", attachCategoryHandlers);
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

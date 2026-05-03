@@ -181,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- ``` -->
 <p>I am a professor of economics at HEC Lausanne, which I joined in 2015. Previously, I worked as a senior economist at the <a href="https://www.banque-france.fr/en/page-sommaire/research">Banque de France</a>, and as the head of operational research at the <a href="https://www.aft.gouv.fr">French Debt Management Office</a> (Agence France Trésor).</p>
 <p>My research focuses on time series modeling, with applications to interest rate dynamics, catastrophe risk pricing, and public debt management.</p>
-<p>I have carried out consulting assignments for various institutions (ECB, OECD, Banque de France, EDF, Swiss federal finance administration).</p>
+<p>I have carried out consulting assignments for various institutions: European Central Bank (ECB), Bank for International Settlements (BIS), Organisation for Economic Co-operation and Development (OECD), Banque de France, Électricité de France (EDF), Swiss Federal Finance Administration (AFF), Swiss State Secretariat for Economic Affairs (SECO).</p>
 <p>On this website, you’ll find my published work, my work in progress, and links to related material (codes). Please feel free to <a href="mailto:jean-paul.renne@unil.ch">contact me</a> if you have any questions.</p>
 
 
@@ -189,6 +189,104 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<script>
+(function () {
+  function decodeCategory(category) {
+    try {
+      return decodeURIComponent(window.atob(category));
+    } catch (_error) {
+      return category;
+    }
+  }
+
+  function setCategoryHash(category) {
+    window.history.pushState(null, null, `#category=${category}`);
+  }
+
+  function activateCategory(category) {
+    const activeEls = window.document.querySelectorAll(
+      ".quarto-listing-category .category.active"
+    );
+    for (const activeEl of activeEls) {
+      activeEl.classList.remove("active");
+    }
+
+    const categoryEl = window.document.querySelector(
+      `.quarto-listing-category .category[data-category='${category}']`
+    );
+    if (categoryEl) {
+      categoryEl.classList.add("active");
+    }
+
+    filterListingCategory(category);
+  }
+
+  function filterListingCategory(category) {
+    const listings = window["quarto-listings"] || {};
+    const listingIds = Object.keys(listings);
+    const selectedCategory = decodeCategory(category).trim();
+
+    for (const listingId of listingIds) {
+      const list = listings[listingId];
+      if (!list) {
+        continue;
+      }
+
+      if (category === "") {
+        list.filter();
+        continue;
+      }
+
+      list.filter(function (item) {
+        const itemValues = item.values();
+        if (itemValues.categories === null) {
+          return false;
+        }
+
+        const rawCategories = itemValues.categories.split(",");
+        const decodedCategories = decodeCategory(itemValues.categories)
+          .split(",")
+          .map((category) => category.trim());
+
+        return (
+          rawCategories.includes(category) ||
+          decodedCategories.includes(selectedCategory)
+        );
+      });
+    }
+  }
+
+  function attachCategoryHandlers() {
+    const categoryEls = window.document.querySelectorAll(
+      ".quarto-listing-category .category"
+    );
+    for (const categoryEl of categoryEls) {
+      const category = categoryEl.getAttribute("data-category");
+      categoryEl.onclick = function () {
+        activateCategory(category);
+        setCategoryHash(category);
+      };
+    }
+
+    const categoryTitleEls = window.document.querySelectorAll(
+      ".quarto-listing-category-title"
+    );
+    for (const categoryTitleEl of categoryTitleEls) {
+      categoryTitleEl.onclick = function () {
+        activateCategory("");
+        setCategoryHash("");
+      };
+    }
+  }
+
+  window.quartoListingCategory = function (category) {
+    activateCategory(category);
+    setCategoryHash(category);
+  };
+
+  window.document.addEventListener("DOMContentLoaded", attachCategoryHandlers);
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
